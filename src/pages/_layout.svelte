@@ -1,2 +1,2 @@
-<!-- routify:options preload="proximity" bundle=true -->
+<!-- routify:options bundle=true -->
 <slot />
